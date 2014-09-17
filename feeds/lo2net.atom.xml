@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Just for fun!</title><link href="/" rel="alternate"></link><link href="/feeds/lo2net.atom.xml" rel="self"></link><id>/</id><updated>2014-09-17T21:53:00+02:00</updated><entry><title>My First log</title><link href="/my-first-log.html" rel="alternate"></link><updated>2014-09-17T21:53:00+02:00</updated><author><name>lo2net</name></author><id>tag:,2014-09-17:my-first-log.html</id><summary type="html">&lt;p&gt;This is first log.&lt;/p&gt;</summary></entry></feed>
